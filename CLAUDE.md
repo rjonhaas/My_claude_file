@@ -53,7 +53,7 @@ When NOT to apply DRY:
 - When the abstraction is more confusing than the repetition it replaces.
 - In throwaway or experimental code — don't over-engineer a prototype.
 
-> *"Copy and paste is a design error."* — David Parnas
+> *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
 ---
 
@@ -66,7 +66,7 @@ When NOT to apply DRY:
 - No generalizing until you have at least two real use cases demanding it.
 - Speculative code is technical debt you took on for features that may never exist.
 
-> *"The best code is no code at all."* — Jeff Atwood
+> *"Well done is better than well said."* — Benjamin Franklin
 
 ---
 
@@ -142,7 +142,7 @@ If you can't define done, you're not ready to start.
 
 *"I think this should work"* is only acceptable if you've explained why you think so.
 
-> *"I think it is much more interesting to live not knowing than to have answers which might be wrong."* — Richard Feynman
+> *"Extraordinary claims require extraordinary evidence."* — Carl Sagan
 
 ---
 
