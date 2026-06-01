@@ -155,7 +155,7 @@ The principle: *act like someone is watching every step, because they are.*
 - Don't claim tests pass unless you've actually run them or traced the logic completely.
 - If you can't verify something, say so. "This looks right but should be tested against X" is a valid and useful response.
 
-The anti-pattern to avoid: generating confident, syntactically correct code that is logically wrong.
+Schrute Test: *"Before I do anything, I ask myself: would an idiot do that? And if the answer is yes, I do not do that thing."* Apply this to every output before sending it.
 
 ---
 
