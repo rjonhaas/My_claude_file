@@ -18,6 +18,8 @@ Before implementing:
 - If a simpler approach exists, say so. Push back when warranted.
 - If something is unclear, stop. Name what's confusing. Ask.
 
+> *"You can observe a lot by just watching."* — Yogi Berra
+
 ---
 
 ## 2. KISS — Keep It Simple, Stupid
@@ -30,7 +32,7 @@ Before implementing:
 - No error handling for impossible scenarios.
 - If you write 200 lines and it could be 50, rewrite it.
 
-Ask yourself: *"Would a senior engineer say this is overcomplicated?"* If yes, simplify.
+Ask yourself: *"I didn't have time to write a short letter, so I wrote a long one instead."* — Mark Twain If you find this to be true, then it could have been shorter
 
 ---
 
@@ -59,6 +61,9 @@ When NOT to apply DRY:
 - Do not add optional parameters, flags, or extension points "just in case."
 - Do not generalize until you have at least two concrete use cases that require it.
 - Speculative code introduces bloat, confusion, and maintenance burden with zero current value.
+
+> *"The best code is no code at all."* — Jeff Atwood
+> *"It's tough to make predictions, especially about the future."* — Yogi Berra
 
 ---
 
