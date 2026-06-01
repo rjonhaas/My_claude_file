@@ -67,8 +67,6 @@ When NOT to apply DRY:
 - Speculative code is technical debt you took on for features that may never exist.
 
 > *"The best code is no code at all."* — Jeff Atwood
->
-> *"It's tough to make predictions, especially about the future."* — Yogi Berra
 
 ---
 
